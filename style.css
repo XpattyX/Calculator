@@ -1,0 +1,25 @@
+body{
+    padding: 2%;
+    background-color: #0f0e17;
+}
+table#Calculator{
+    margin: auto;
+    padding: 16px;
+    border: 2px solid #ff8906;
+    border-radius: 24px;
+    background-color: #ff8906;
+}
+input[type="Button"]{
+    width: 100%;
+    padding: 30px 30px;
+    border: none ;
+    background-color: #fffffe;
+    border-radius: 50%;
+}
+input[type="Text"]{
+    padding: 30px 40px;
+    border: none;
+    background-color: white;
+    border-radius: 6px;
+    column-gap: 8px;
+}
